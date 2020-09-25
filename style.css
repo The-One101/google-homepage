@@ -1,0 +1,54 @@
+li{
+    display: inline;
+    font-family: "Arial", "Sans-Serif";
+    font-size: 13px;
+}
+
+.left{
+    padding-left: 15px;
+    display: inline-block;
+    color: #000;
+    opacity: 0.75;
+}
+
+.right{
+    padding-right: 15px;
+    float: right;
+    color: #000;
+    opacity: 0.75;
+}
+
+#signin{
+    background-color: rgb(66, 133, 244);
+    color: white;
+    border-radius: 2px;
+    padding: 5px 10px;
+    border-color: rgb(66, 133, 244);
+    position: relative;
+    bottom: 5px;
+    border: 1px rgb(66, 133, 244) solid;
+    float: right;
+    margin-right: 15px;
+}
+
+img{
+    
+    position: relative;
+    top: 150px;
+}
+
+center{
+    
+    position: relative;
+}
+
+input[type=text]{
+    padding: 13px;
+    border-radius: 25px;
+    border-color: rgba(223, 225, 229, 0.5);
+    width: 550px;
+    border: 1px solid gray;
+    top: 250px;
+    margin-top: 160px;
+    box-sizing: border-box;
+}
